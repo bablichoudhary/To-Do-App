@@ -1,28 +1,20 @@
-# To-Do App with React & Vite
+To-Do App with React & Vite
+This is a simple To-Do application built using React and Vite. The app allows users to add, delete, edit and mark tasks as completed.
 
-This is a simple To-Do application built using **React** and **Vite**. The app allows users to add, delete, edit and mark tasks as completed.
-
-## Features
-
-- Add a new task to the to-do list.
-- Mark tasks as complete/incomplete.
-- edit task when needed.
-- Remove tasks from the list.
-- Simple UI with state management.
-
-## Tech Stack
-
-- **React**: JavaScript library for building user interfaces.
-- **Vite**: Next-generation front-end tooling for fast builds.
-- **tailwindcss**: For basic styling.
-
-## Getting Started
-
+Features
+Add a new task to the to-do list.
+Mark tasks as complete/incomplete.
+edit task when needed.
+Remove tasks from the list.
+Simple UI with state management.
+Tech Stack
+React: JavaScript library for building user interfaces.
+Vite: Next-generation front-end tooling for fast builds.
+tailwindcss: For basic styling.
+Getting Started
 Follow these steps to get the app running locally:
 
-### 1. Clone the repository
-
-```bash
+1. Clone the repository
 git clone https://github.com/bablichoudhary/To-Do-App.git
 cd To-Do-App-react-vite
 
