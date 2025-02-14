@@ -14,7 +14,7 @@ function ToDoList(props) {
       <div className="flex items-center gap-2 ">
      
         {props.item.completed ? (
-          <div className="flex items-center justify-center w-6 h-6 bg-green-500 text-white rounded-full">
+          <div className="flex items-center justify-center w-6 h-6 bg-green-500 text-white rounded-full" onClick={props.toggleCompletion}>
             <i className="fa-solid fa-check"></i>
           </div>
         ) : (
